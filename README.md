@@ -1,3 +1,3 @@
 # HardWorkingToys
 
-foo
+Toys that work hard
