@@ -5,6 +5,18 @@ The KeyCade Nano is a teeny tiny game console that could theoretically
 be put on a keychain.  Though it would probably be better if it had a 
 a case or something silly like that.
 
+* TODO Picture of the KCN
+
+## How to use the KeyCade Nano
+
+Power on your KeyCade Nano, and — after the splash screen — you will
+be presented with a list of games.
+
+Use the up and down buttons on the joystick to navigate to the game you
+want to play, and then press the A or B button to start.
+
+You can return to the main menu at any time by clicking the joystick while
+Pressing both the A and B buttons at the same time.
 
 ## Included Games
 
