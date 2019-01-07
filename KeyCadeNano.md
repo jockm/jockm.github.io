@@ -1,5 +1,5 @@
 	
-# Welcome to the KeyCade Nano
+# KeyCade Nano
 
 The KeyCade Nano is a teeny tiny game console that could theoretically 
 be put on a keychain.  Though it would probably be better if it had a 
